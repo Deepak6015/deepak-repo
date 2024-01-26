@@ -21,7 +21,11 @@ Folders
                       The script then prints a summary, including any applicable discounts and the final total price
 3. Task2
 
-   Description:
+   Description:This contains a simple Python script for analyzing a cat shelter log file. The script calculates various statistics related                  to cat visits, including the number of visits, total time spent by the correct cat, average visit length, and more.
+
+    contents:The main Python script that reads a cat shelter log file and performs the analysis.
+             Uses descriptive variable names to enhance code readability.
+             Prints insightful information about cat visits, intruder encounters, and visit durations.
    
 4. Task3
 
